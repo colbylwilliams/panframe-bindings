@@ -8,8 +8,11 @@ This is a set of Xamarin bindings for the [Panframe iOS SDK][0] and [Panframe An
 Clone this repo.
 
 Download the [Panframe iOS SDK][0] and [Panframe Android SDK][1].
+
 Drop the `Panframe.framework` file in `extern/ios` folder.
+
 Drop the `panframe-1.9.jar` file in the `extern/android` folder.
+
 Open `bindings/ios/Panframe/Panframe.sln` and `bindings/android/Panframe/Panframe.sln` in Xamarin Studio and build.  Or simply reference the respective Panframe projects from your Xamarin.iOS and Xamarin.Android project.
 
 
