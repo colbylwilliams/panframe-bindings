@@ -212,5 +212,5 @@ Thumbs.db
 *.dmg
 *.app
 
-extern/ios/*
-extern/android/*
+extern/ios/*.framework
+extern/android/*.jar
